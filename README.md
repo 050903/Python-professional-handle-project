@@ -1,15 +1,16 @@
 🌌 🎮 Key Features for the Project
 Your project could go beyond basic starfields and evolve into a fully interactive 3D-style Pygame scene. Some core elements might be:
 
-✅ 3D starfield with movement & depth
-✅ 3D planet and moon rotation (simulate spheres)
-✅ Camera movement (move forward, backward, look around)
-✅ User controls for exploration (WASD to navigate, mouse to look)
-✅ Dynamic lighting (basic shading effects)
-✅ Comet trails & particle effects
-✅ Asteroid belt with rotating rocks
-✅ Scalable “hyperspace jump” effect
-✅ Smooth frame rates with delta time
+-	✅ 3D starfield with movement & depth
+-	✅ 3D planet and moon rotation (simulate spheres)
+-	✅ Camera movement (move forward, backward, look around)
+-	✅ User controls for exploration (WASD to navigate, mouse to look)
+-	✅ Dynamic lighting (basic shading effects)
+-	✅ Comet trails & particle effects
+-	✅ Asteroid belt with rotating rocks
+-	✅ Scalable “hyperspace jump” effect
+-	✅ Smooth frame rates with delta time
+
 
 ------
 
